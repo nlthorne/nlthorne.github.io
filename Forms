@@ -1,0 +1,33 @@
+<html>
+<head>
+</head>
+<body>
+<h1><center><strong>Your car and you!</center></strong></h1>
+<form action="mailto:nick@devcodecamp.com?Subject=Lab" method="post">
+    <fieldset>
+        <legend>Gender:</legend>
+        <input type="radio" name="gender" value="male" checked> Male<br>
+        <input type="radio" name="gender" value="female"> Female<br>
+        <input type="radio" name="gender" value="other"> Other
+    </fieldset>
+    <fieldset>
+        <legend>Type of car you drive:
+        <select name="cars">
+        <option value="ford">Ford</option>
+        <option value="honda">Honda</option>
+        <option value="bmw">BMW</option>
+        <option value="audi">Audi</option>
+        <option value="other">Other</option>
+        </select>
+    </fieldset>
+    <fieldset>
+    <textarea name="message" rows="10" cols="30">
+    Why you chose your car:
+    </textarea>
+    </fieldset>
+    <input type="submit" value="Submit">
+    <input type="reset" value="Reset">
+</form>
+
+</body>
+</html>

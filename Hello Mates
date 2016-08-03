@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Hello Mates</title>
+<meta name="description" content="Crew Table">
+<meta name="keywords" content="crew, ranking">
+<meta name="author" content="Nick">
+
+
+</head>
+<body>
+<h1><strong>Hello Mates</strong></h1>
+<h2>Crew Table</h2>
+<table>
+<th>PIRATE RANK</th>
+<tr><td>Tux</td><td>Captain</td></tr>
+<tr><td>Calico</td><td>Surgeon</td></tr>
+<tr><td>Drake</td><td>Sea Dog</td></tr>
+<tr><td>Kidd</td><td>Mate</td></tr>
+</table>
+<h3><strong>Loot List</strong></h3>
+<ul>
+<li>Gold</li>
+<li>Cannons</li>
+<li>Swords</li>
+<li>Parrots</li>
+<li>Rum</li>
+</ul>
+<h4><strong>Ranking List</strong></h4>
+<ol>
+<li>Captain</li>
+<li>First Mate</li>
+<li>Gunner</li>
+<li>Cook</li>
+<li>Crew</li>
+</ol>
+
+
+</body>
+</html>
