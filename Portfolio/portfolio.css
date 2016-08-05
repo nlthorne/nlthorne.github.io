@@ -20,5 +20,10 @@ body {
 	background-repeat: no-repeat;
 }
 h3 {
-	
+
+}
+.jump{
+	display: block;
+	position: relative;
+	visibility: hidden;
 }
