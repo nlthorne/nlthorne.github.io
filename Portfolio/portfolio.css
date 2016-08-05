@@ -1,0 +1,20 @@
+p {
+	text-align: center;
+	color:grey;
+
+}
+.jumbotron{
+	background-color: white;
+}
+.jumbotron.container{
+	position: relative;
+	top: 100px;
+}
+.container-fluid{
+	color: grey;
+}
+body {
+	background-image: url(portfolio.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
