@@ -1,0 +1,6 @@
+c:\users\nltho\documents\visual studio 2015\Projects\PayCalculator\PayCalculator\bin\Debug\PayCalculator.exe.config
+c:\users\nltho\documents\visual studio 2015\Projects\PayCalculator\PayCalculator\bin\Debug\PayCalculator.exe
+c:\users\nltho\documents\visual studio 2015\Projects\PayCalculator\PayCalculator\bin\Debug\PayCalculator.pdb
+c:\users\nltho\documents\visual studio 2015\Projects\PayCalculator\PayCalculator\obj\Debug\PayCalculator.csprojResolveAssemblyReference.cache
+c:\users\nltho\documents\visual studio 2015\Projects\PayCalculator\PayCalculator\obj\Debug\PayCalculator.exe
+c:\users\nltho\documents\visual studio 2015\Projects\PayCalculator\PayCalculator\obj\Debug\PayCalculator.pdb
